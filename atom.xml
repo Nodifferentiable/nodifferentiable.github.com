@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Acaibird Devil</title>
+  
+  <subtitle>残月忧郁 星夜静谧 潮落叹息</subtitle>
+  <link href="https://a-caibird.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://a-caibird.github.io/"/>
+  <updated>2023-11-24T16:20:18.538Z</updated>
+  <id>https://a-caibird.github.io/</id>
+  
+  <author>
+    <name>Acaibird</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>致她</title>
+    <link href="https://a-caibird.github.io/2023/11/25/zhi-ta/"/>
+    <id>https://a-caibird.github.io/2023/11/25/zhi-ta/</id>
+    <published>2023-11-25T03:57:47.000Z</published>
+    <updated>2023-11-24T16:20:18.538Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>scanf高级用法</title>
+    <link href="https://a-caibird.github.io/2023/11/22/scanf-gao-ji-yong-fa/"/>
+    <id>https://a-caibird.github.io/2023/11/22/scanf-gao-ji-yong-fa/</id>
+    <published>2023-11-21T21:55:01.000Z</published>
+    <updated>2023-11-21T06:55:31.604Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;题目详情-7-4-查找书籍-pintia-cn&quot;&gt;&lt;a href=&quot;#题目详情-7-4-查找书籍-pintia-cn&quot; class=&quot;headerlink&quot; title=&quot;题目详情 - 7-4 查找书籍 (pintia.cn)&quot;&gt;&lt;/a&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="C" scheme="https://a-caibird.github.io/categories/C/"/>
+    
+    
+    <category term="OJ" scheme="https://a-caibird.github.io/tags/OJ/"/>
+    
+    <category term="C" scheme="https://a-caibird.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Typescirpt基础类型</title>
+    <link href="https://a-caibird.github.io/2023/11/22/typescirpt-ji-chu-lei-xing/"/>
+    <id>https://a-caibird.github.io/2023/11/22/typescirpt-ji-chu-lei-xing/</id>
+    <published>2023-11-21T21:53:06.000Z</published>
+    <updated>2023-11-21T06:54:16.886Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Typescript类型总结&quot;&gt;&lt;a href=&quot;#Typescript类型总结&quot; class=&quot;headerlink&quot; title=&quot;Typescript类型总结&quot;&gt;&lt;/a&gt;Typescript类型总结&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Typescirpt" scheme="https://a-caibird.github.io/categories/Typescirpt/"/>
+    
+    
+    <category term="Typescript" scheme="https://a-caibird.github.io/tags/Typescript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言有名管道实现进程的通信</title>
+    <link href="https://a-caibird.github.io/2023/11/22/c-yu-yan-you-ming-guan-dao-shi-xian-jin-cheng-de-tong-xin/"/>
+    <id>https://a-caibird.github.io/2023/11/22/c-yu-yan-you-ming-guan-dao-shi-xian-jin-cheng-de-tong-xin/</id>
+    <published>2023-11-21T21:51:17.000Z</published>
+    <updated>2023-11-21T06:52:32.148Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;非亲属进程之间的通信通过有名管道来实现&quot;&gt;&lt;a href=&quot;#非亲属进程之间的通信通过有名管道来实现&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="进程通信" scheme="https://a-caibird.github.io/categories/%E8%BF%9B%E7%A8%8B%E9%80%9A%E4%BF%A1/"/>
+    
+    <category term="C" scheme="https://a-caibird.github.io/categories/%E8%BF%9B%E7%A8%8B%E9%80%9A%E4%BF%A1/C/"/>
+    
+    
+    <category term="C" scheme="https://a-caibird.github.io/tags/C/"/>
+    
+    <category term="有名管道" scheme="https://a-caibird.github.io/tags/%E6%9C%89%E5%90%8D%E7%AE%A1%E9%81%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言通过无名管道实现进程通信</title>
+    <link href="https://a-caibird.github.io/2023/11/22/c-yu-yan-tong-guo-wu-ming-guan-dao-shi-xian-jin-cheng-tong-xin/"/>
+    <id>https://a-caibird.github.io/2023/11/22/c-yu-yan-tong-guo-wu-ming-guan-dao-shi-xian-jin-cheng-tong-xin/</id>
+    <published>2023-11-21T21:49:13.000Z</published>
+    <updated>2023-11-21T06:49:57.153Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;实验1：编写一个简单的程序实现管道的创建与读写方法&quot;&gt;&lt;a href=&quot;#实验1：编写一个简单的程序实现管道的创建与读写方法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="C" scheme="https://a-caibird.github.io/categories/C/"/>
+    
+    <category term="进程通信" scheme="https://a-caibird.github.io/categories/C/%E8%BF%9B%E7%A8%8B%E9%80%9A%E4%BF%A1/"/>
+    
+    
+    <category term="C" scheme="https://a-caibird.github.io/tags/C/"/>
+    
+    <category term="无名管道" scheme="https://a-caibird.github.io/tags/%E6%97%A0%E5%90%8D%E7%AE%A1%E9%81%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言消息队列实现进程通信</title>
+    <link href="https://a-caibird.github.io/2023/11/22/c-yu-yan-xiao-xi-dui-lie-shi-xian-jin-cheng-tong-xin/"/>
+    <id>https://a-caibird.github.io/2023/11/22/c-yu-yan-xiao-xi-dui-lie-shi-xian-jin-cheng-tong-xin/</id>
+    <published>2023-11-21T21:45:37.000Z</published>
+    <updated>2023-11-21T06:47:17.042Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;通过消息队列实现进程的通信&quot;&gt;&lt;a href=&quot;#通过消息队列实现进程的通信&quot; class=&quot;headerlink&quot; title=&quot;通过消息队列实现进程的通信&quot;&gt;&lt;/a&gt;通过消息队列实现进程的通信&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="进程通信" scheme="https://a-caibird.github.io/categories/%E8%BF%9B%E7%A8%8B%E9%80%9A%E4%BF%A1/"/>
+    
+    
+    <category term="C" scheme="https://a-caibird.github.io/tags/C/"/>
+    
+    <category term="进程通信" scheme="https://a-caibird.github.io/tags/%E8%BF%9B%E7%A8%8B%E9%80%9A%E4%BF%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Css总结</title>
+    <link href="https://a-caibird.github.io/2023/11/22/css-zong-jie/"/>
+    <id>https://a-caibird.github.io/2023/11/22/css-zong-jie/</id>
+    <published>2023-11-21T21:41:09.000Z</published>
+    <updated>2023-11-21T06:44:14.726Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;CSS语法总结&quot;&gt;&lt;a href=&quot;#CSS语法总结&quot; class=&quot;headerlink&quot; title=&quot;CSS语法总结&quot;&gt;&lt;/a&gt;CSS语法总结&lt;/h1&gt;&lt;h2 id=&quot;CSS优先级&quot;&gt;&lt;a href=&quot;#CSS优先级&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="CSS" scheme="https://a-caibird.github.io/categories/CSS/"/>
+    
+    
+    <category term="CSS" scheme="https://a-caibird.github.io/tags/CSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MacOS显示隐藏文件</title>
+    <link href="https://a-caibird.github.io/2023/11/22/macos-xian-shi-yin-cang-wen-jian/"/>
+    <id>https://a-caibird.github.io/2023/11/22/macos-xian-shi-yin-cang-wen-jian/</id>
+    <published>2023-11-21T21:38:07.000Z</published>
+    <updated>2023-11-21T06:39:14.816Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在 macOS</summary>
+        
+      
+    
+    
+    
+    <category term="Mac" scheme="https://a-caibird.github.io/categories/Mac/"/>
+    
+    <category term="MacOs" scheme="https://a-caibird.github.io/categories/Mac/MacOs/"/>
+    
+    
+    <category term="MasOS" scheme="https://a-caibird.github.io/tags/MasOS/"/>
+    
+    <category term="Linux" scheme="https://a-caibird.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>npm创建typescript项目</title>
+    <link href="https://a-caibird.github.io/2023/11/22/npm-chuang-jian-typescript-xiang-mu/"/>
+    <id>https://a-caibird.github.io/2023/11/22/npm-chuang-jian-typescript-xiang-mu/</id>
+    <published>2023-11-21T21:25:22.000Z</published>
+    <updated>2023-11-21T06:26:59.485Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;首先，您需要确保已在计算机上安装了Node.js和NPM。在安装完成后，您可以按照以下步骤初始化一个TypeScript项目：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;打开命令行界面（例如终端或命令提示符）并导航到要创建项目的目录。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;使用npm</summary>
+        
+      
+    
+    
+    
+    <category term="Node.js" scheme="https://a-caibird.github.io/categories/Node-js/"/>
+    
+    <category term="Typescript" scheme="https://a-caibird.github.io/categories/Node-js/Typescript/"/>
+    
+    
+    <category term="Node.js" scheme="https://a-caibird.github.io/tags/Node-js/"/>
+    
+    <category term="typescript" scheme="https://a-caibird.github.io/tags/typescript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>centos安装mysql8</title>
+    <link href="https://a-caibird.github.io/2023/11/22/centos-an-zhuang-mysql/"/>
+    <id>https://a-caibird.github.io/2023/11/22/centos-an-zhuang-mysql/</id>
+    <published>2023-11-21T21:23:01.000Z</published>
+    <updated>2023-11-21T06:24:08.790Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://juejin.cn/post/7056265988673568781&quot;&gt;centos8</summary>
+        
+      
+    
+    
+    
+    <category term="Centos" scheme="https://a-caibird.github.io/categories/Centos/"/>
+    
+    <category term="Mysql" scheme="https://a-caibird.github.io/categories/Centos/Mysql/"/>
+    
+    
+    <category term="Centos" scheme="https://a-caibird.github.io/tags/Centos/"/>
+    
+    <category term="Mysql" scheme="https://a-caibird.github.io/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>查看私网和公网IP</title>
+    <link href="https://a-caibird.github.io/2023/11/22/cha-kan-si-wang-luo-he-gong-wang-ip/"/>
+    <id>https://a-caibird.github.io/2023/11/22/cha-kan-si-wang-luo-he-gong-wang-ip/</id>
+    <published>2023-11-21T21:21:03.000Z</published>
+    <updated>2023-11-21T06:22:32.087Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;macOS-Linux&quot;&gt;&lt;a href=&quot;#macOS-Linux&quot; class=&quot;headerlink&quot; title=&quot;macOS Linux&quot;&gt;&lt;/a&gt;macOS Linux&lt;/h2&gt;&lt;p&gt;在 macOS 上，你可以使用以下命令来查看本机的 IP</summary>
+        
+      
+    
+    
+    
+    <category term="IP" scheme="https://a-caibird.github.io/categories/IP/"/>
+    
+    <category term="Mac" scheme="https://a-caibird.github.io/categories/IP/Mac/"/>
+    
+    
+    <category term="Mac" scheme="https://a-caibird.github.io/tags/Mac/"/>
+    
+    <category term="IP" scheme="https://a-caibird.github.io/tags/IP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac OS常用命令</title>
+    <link href="https://a-caibird.github.io/2023/11/22/mac-os-chang-yong-ming-ling/"/>
+    <id>https://a-caibird.github.io/2023/11/22/mac-os-chang-yong-ming-ling/</id>
+    <published>2023-11-21T21:19:39.000Z</published>
+    <updated>2023-11-21T06:20:13.752Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;terminal走代理&quot;&gt;&lt;a href=&quot;#terminal走代理&quot; class=&quot;headerlink&quot; title=&quot;terminal走代理&quot;&gt;&lt;/a&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="mac" scheme="https://a-caibird.github.io/categories/mac/"/>
+    
+    
+    <category term="MacOS" scheme="https://a-caibird.github.io/tags/MacOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDBC链接数据库</title>
+    <link href="https://a-caibird.github.io/2023/11/22/jdbc-lian-jie-shu-ju-ku/"/>
+    <id>https://a-caibird.github.io/2023/11/22/jdbc-lian-jie-shu-ju-ku/</id>
+    <published>2023-11-21T21:16:15.000Z</published>
+    <updated>2023-11-21T06:29:26.679Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Java使用驱动连接链接数据库&quot;&gt;&lt;a href=&quot;#Java使用驱动连接链接数据库&quot; class=&quot;headerlink&quot; title=&quot;Java使用驱动连接链接数据库&quot;&gt;&lt;/a&gt;Java使用驱动连接链接数据库&lt;/h1&gt;&lt;h2 id=&quot;驱动下载&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://a-caibird.github.io/categories/Java/"/>
+    
+    <category term="JDBC" scheme="https://a-caibird.github.io/categories/Java/JDBC/"/>
+    
+    
+    <category term="Java" scheme="https://a-caibird.github.io/tags/Java/"/>
+    
+    <category term="JDBC" scheme="https://a-caibird.github.io/tags/JDBC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql创建表</title>
+    <link href="https://a-caibird.github.io/2023/11/22/mysql-chuang-jian-biao/"/>
+    <id>https://a-caibird.github.io/2023/11/22/mysql-chuang-jian-biao/</id>
+    <published>2023-11-21T21:14:18.000Z</published>
+    <updated>2023-11-21T06:15:33.235Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这段代码可能有以下原因导致错误：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;表名和列名使用了单引号，正确的写法应该是使用反引号。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;‘uersname’ 应该是 ‘username’ 才正确。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;指定了字符集为</summary>
+        
+      
+    
+    
+    
+    <category term="Mysql" scheme="https://a-caibird.github.io/categories/Mysql/"/>
+    
+    
+    <category term="Mysql" scheme="https://a-caibird.github.io/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql权限设置</title>
+    <link href="https://a-caibird.github.io/2023/11/22/mysql-quan-xian-she-zhi/"/>
+    <id>https://a-caibird.github.io/2023/11/22/mysql-quan-xian-she-zhi/</id>
+    <published>2023-11-21T21:12:23.000Z</published>
+    <updated>2023-11-21T06:13:41.031Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;MySQL权限命令&quot;&gt;&lt;a href=&quot;#MySQL权限命令&quot; class=&quot;headerlink&quot; title=&quot;MySQL权限命令&quot;&gt;&lt;/a&gt;MySQL权限命令&lt;/h1&gt;&lt;h2 id=&quot;创建用户&quot;&gt;&lt;a href=&quot;#创建用户&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Mysql" scheme="https://a-caibird.github.io/categories/Mysql/"/>
+    
+    
+    <category term="mysql" scheme="https://a-caibird.github.io/tags/mysql/"/>
+    
+    <category term="权限、角色" scheme="https://a-caibird.github.io/tags/%E6%9D%83%E9%99%90%E3%80%81%E8%A7%92%E8%89%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>正则表达式检验身份证有效性</title>
+    <link href="https://a-caibird.github.io/2023/11/22/zheng-ze-biao-da-shi-jian-yan-shen-fen-zheng-you-xiao-xing/"/>
+    <id>https://a-caibird.github.io/2023/11/22/zheng-ze-biao-da-shi-jian-yan-shen-fen-zheng-you-xiao-xing/</id>
+    <published>2023-11-21T21:03:11.000Z</published>
+    <updated>2023-11-21T06:04:23.044Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Java正则表达式实现身份证号码检验&quot;&gt;&lt;a href=&quot;#Java正则表达式实现身份证号码检验&quot; class=&quot;headerlink&quot; title=&quot;Java正则表达式实现身份证号码检验&quot;&gt;&lt;/a&gt;Java正则表达式实现身份证号码检验&lt;/h1&gt;&lt;pre</summary>
+        
+      
+    
+    
+    
+    <category term="Regex" scheme="https://a-caibird.github.io/categories/Regex/"/>
+    
+    
+    <category term="Regex" scheme="https://a-caibird.github.io/tags/Regex/"/>
+    
+    <category term="java" scheme="https://a-caibird.github.io/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java实现计算器</title>
+    <link href="https://a-caibird.github.io/2023/11/22/java-shi-xian-ji-suan-qi/"/>
+    <id>https://a-caibird.github.io/2023/11/22/java-shi-xian-ji-suan-qi/</id>
+    <published>2023-11-21T20:55:18.000Z</published>
+    <updated>2023-11-21T06:33:59.211Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://a-caibird.github.io/categories/Java/"/>
+    
+    <category term="GUI" scheme="https://a-caibird.github.io/categories/Java/GUI/"/>
+    
+    
+    <category term="Java" scheme="https://a-caibird.github.io/tags/Java/"/>
+    
+    <category term="GUI" scheme="https://a-caibird.github.io/tags/GUI/"/>
+    
+    <category term="Swing" scheme="https://a-caibird.github.io/tags/Swing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>c++代码模板</title>
+    <link href="https://a-caibird.github.io/2023/11/20/cpp-dai-ma-mo-ban/"/>
+    <id>https://a-caibird.github.io/2023/11/20/cpp-dai-ma-mo-ban/</id>
+    <published>2023-11-20T04:32:24.000Z</published>
+    <updated>2023-11-19T13:35:30.154Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre class=&quot;line-numbers language-cpp&quot; data-language=&quot;cpp&quot;&gt;&lt;code class=&quot;language-cpp&quot;&gt;&lt;span class=&quot;token macro property&quot;&gt;&lt;span class=&quot;token</summary>
+        
+      
+    
+    
+    
+    <category term="c++" scheme="https://a-caibird.github.io/categories/c/"/>
+    
+    <category term="OJ" scheme="https://a-caibird.github.io/categories/c/OJ/"/>
+    
+    
+    <category term="c++" scheme="https://a-caibird.github.io/tags/c/"/>
+    
+    <category term="OJ" scheme="https://a-caibird.github.io/tags/OJ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git命令大全</title>
+    <link href="https://a-caibird.github.io/2023/11/20/git-ming-ling-da-quan/"/>
+    <id>https://a-caibird.github.io/2023/11/20/git-ming-ling-da-quan/</id>
+    <published>2023-11-20T03:57:16.000Z</published>
+    <updated>2023-11-19T13:26:53.017Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Git指南&quot;&gt;&lt;a href=&quot;#Git指南&quot; class=&quot;headerlink&quot; title=&quot;Git指南&quot;&gt;&lt;/a&gt;Git指南&lt;/h1&gt;&lt;h2 id=&quot;git-checkout-切换分支&quot;&gt;&lt;a href=&quot;#git-checkout-切换分支&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Git" scheme="https://a-caibird.github.io/categories/Git/"/>
+    
+    
+    <category term="Git" scheme="https://a-caibird.github.io/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql 储存过程</title>
+    <link href="https://a-caibird.github.io/2023/11/20/mysql-chu-cun-guo-cheng/"/>
+    <id>https://a-caibird.github.io/2023/11/20/mysql-chu-cun-guo-cheng/</id>
+    <published>2023-11-20T03:55:02.000Z</published>
+    <updated>2023-11-19T12:56:03.011Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;mysql储存过程&quot;&gt;&lt;a href=&quot;#mysql储存过程&quot; class=&quot;headerlink&quot; title=&quot;mysql储存过程&quot;&gt;&lt;/a&gt;mysql储存过程&lt;/h1&gt;&lt;h2 id=&quot;成绩-学生信息表定义&quot;&gt;&lt;a href=&quot;#成绩-学生信息表定义&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="mysql" scheme="https://a-caibird.github.io/categories/mysql/"/>
+    
+    
+    <category term="mysql" scheme="https://a-caibird.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+</feed>
